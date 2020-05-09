@@ -1,0 +1,23 @@
+{
+  "name": "vtree-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/main.ts",
+    "serve": "parcel serve ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.3",
+    "virtual-dom": "^2.1.1",
+    "vtree": "0.0.22"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "ts-node": "^8.9.1"
+  }
+}
