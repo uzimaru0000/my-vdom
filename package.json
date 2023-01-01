@@ -17,7 +17,7 @@
     "vtree": "0.0.22"
   },
   "devDependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "ts-node": "^8.9.1"
   }
 }
